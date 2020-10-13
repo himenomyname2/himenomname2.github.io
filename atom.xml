@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://himenomyname2.github.io</id>
-    <title>Datta Dayadhvam Damyata</title>
-    <updated>2020-10-13T02:00:20.945Z</updated>
+    <title>兔子会寂寞而死吗</title>
+    <updated>2020-10-13T02:02:28.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://himenomyname2.github.io"/>
     <link rel="self" href="https://himenomyname2.github.io/atom.xml"/>
     <subtitle>随便写写</subtitle>
     <logo>https://himenomyname2.github.io/images/avatar.png</logo>
     <icon>https://himenomyname2.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Datta Dayadhvam Damyata</rights>
+    <rights>All rights reserved 2020, 兔子会寂寞而死吗</rights>
     <entry>
         <title type="html"><![CDATA[转身忘却]]></title>
         <id>https://himenomyname2.github.io/post/xin-de-zhan-keng/</id>
