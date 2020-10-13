@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://himenomyname2.github.io</id>
     <title>兔子会寂寞而死吗</title>
-    <updated>2020-10-13T02:02:28.747Z</updated>
+    <updated>2020-10-13T04:47:00.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://himenomyname2.github.io"/>
     <link rel="self" href="https://himenomyname2.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://himenomyname2.github.io/images/avatar.png</logo>
     <icon>https://himenomyname2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 兔子会寂寞而死吗</rights>
+    <entry>
+        <title type="html"><![CDATA[关于樱花摸鱼的一些碎碎念]]></title>
+        <id>https://himenomyname2.github.io/post/sui-sui-nian/</id>
+        <link href="https://himenomyname2.github.io/post/sui-sui-nian/">
+        </link>
+        <updated>2020-10-13T02:16:24.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[转身忘却]]></title>
         <id>https://himenomyname2.github.io/post/xin-de-zhan-keng/</id>
